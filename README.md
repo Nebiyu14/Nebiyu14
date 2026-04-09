@@ -8,10 +8,13 @@
 
 
 ### About me
+
 I am a full-stack developer passionate about building **dynamic, responsive, and high-performance web applications**.  
 I specialize in **frontend development with React**, crafting intuitive and user-friendly interfaces.  
 On the backend, I build **scalable APIs and data-driven systems** with Node.js and Express.  
 I combine frontend finesse with backend architecture to deliver **complete end-to-end solutions**.
+
+---
 
 ### What I Offer
 - **Responsive Frontend:** Clean, interactive UI/UX using modern frameworks like React.  
@@ -20,11 +23,9 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 - **Clean Code & Best Practices:** Maintainable, efficient, and production-ready solutions.  
 - **Real-World Integrations:** Payment gateways, authentication, and third-party APIs.
 
-<br clear="right"/>
-
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 **Languages**
 
@@ -35,7 +36,6 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=fff)
@@ -56,6 +56,7 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 **Tools & deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)
@@ -68,17 +69,6 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=fff)
 ![Code Review](https://img.shields.io/badge/Code_Review-6B7280?style=flat-square&logo=githubactions&logoColor=fff)
 
----
-
-### 📊 GitHub activity
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nebiyu-tesfaye&layout=compact&theme=buefy&hide_border=true&title_color=d97706&text_color=374151&bg_color=fffbf5" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=nebiyu-tesfaye&theme=buefy&hide_border=true&ring=d97706&fire=d97706&currStreakLabel=d97706" />
-
-</div>
 
 ---
 
@@ -90,7 +80,7 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/nebiyu-tesfaye/)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=fff)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=fff)](https://portfolio-nebiyu.vercel.app/)
 
 </div>
 
