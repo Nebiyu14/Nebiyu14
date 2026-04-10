@@ -60,6 +60,9 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 - ![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=fff)
 - ![Code Review](https://img.shields.io/badge/Code_Review-6B7280?style=flat-square&logo=githubactions&logoColor=fff)
 
+**Currently Learning**
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+- ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=fff)
 
 ---
 
