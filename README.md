@@ -62,6 +62,7 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 
 **Currently Learning**
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 - ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=fff)
 
 ---
@@ -86,6 +87,12 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=fff)](https://portfolio-nebiyu.vercel.app/)
 
 </div>
+
+---
+
+## Open to
+I'm currently open to **internships**, **collaborations**, and **open-source projects**.
+Feel free to reach out!
 
 <div align="center">
 
