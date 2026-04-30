@@ -91,7 +91,7 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 ---
 
 ## Open to
-I'm currently open to **internships**, **collaborations**, and **open-source projects**.
+I'm currently open to **internships**, **junior positions**, **collaborations**, and **open-source projects**.
 Feel free to reach out!
 
 <div align="center">
