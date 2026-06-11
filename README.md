@@ -76,7 +76,7 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 
 ---
 
-### 📬 Let's connect
+### Let's connect
 
 <div align="start">
 
