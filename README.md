@@ -21,6 +21,7 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 **Languages**
 
 - ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 
@@ -61,7 +62,6 @@ I combine frontend finesse with backend architecture to deliver **complete end-t
 - ![Code Review](https://img.shields.io/badge/Code_Review-6B7280?style=flat-square&logo=githubactions&logoColor=fff)
 
 **Currently Learning**
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 - ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=fff)
 
